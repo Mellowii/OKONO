@@ -1,0 +1,149 @@
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.Properties.Resources.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.csproj.GenerateResource.cache
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.csproj.CoreCompileInputs.cache
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\đồ án.exe.config
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\đồ án.exe
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\đồ án.pdb
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.exe
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.pdb
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.NhaCungCap.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.NhanVien.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.KhachHangcs.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.Hang.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.CTPNhap.resources
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\ClosedXML.dll
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\ExcelNumberFormat.dll
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\System.IO.Packaging.dll
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\ClosedXML.pdb
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\ClosedXML.xml
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Learn\WEB\đồ án\đồ án\bin\Debug\ExcelNumberFormat.xml
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.csproj.ResolveComReference.cache
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.csproj.CopyComplete
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.PhieuNhap.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.TrangChu.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ án.csprojAssemblyReference.cache
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.DangNhap.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.BaoCaoThongKe.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.CTPXuat.resources
+D:\Learn\WEB\đồ án\đồ án\obj\Debug\đồ_án.PhieuXuat.resources
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\đồ án.exe.config
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\đồ án.exe
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\đồ án.pdb
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ClosedXML.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ExcelNumberFormat.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\System.IO.Packaging.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ClosedXML.pdb
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ClosedXML.xml
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ExcelNumberFormat.xml
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.csproj.ResolveComReference.cache
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.CTPNhap.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.CTPXuat.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.DangNhap.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.Hang.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.KhachHangcs.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.NhaCungCap.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.NhanVien.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.PhieuNhap.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.PhieuXuat.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.Properties.Resources.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.TrangChu.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.csproj.GenerateResource.cache
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.csproj.CoreCompileInputs.cache
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.csproj.CopyComplete
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.exe
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.pdb
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ án.csprojAssemblyReference.cache
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\EnvDTE.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\stdole.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\Microsoft.MSXML.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\RdlCompile.cache
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\RdlCompile.compiled
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\RptBCNHangrdlc.rdlc
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\BaoCaoNhapHang.resx
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\BaoCaoNhapHang.cs
+D:\Learn\Donet\đồ án\đồ án\bin\Debug\BaoCaoNhapHang.Designer.cs
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.BaoCaoDoanhThu.resources
+D:\Learn\Donet\đồ án\đồ án\obj\Debug\đồ_án.BaoCaoNhapHang.resources
